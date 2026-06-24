@@ -6,6 +6,12 @@ A neural network built from scratch with NumPy that recognizes American Sign Lan
 
 This project trains a two-layer neural network to classify images of ASL hand signs into 24 letter categories (A–Y, excluding J and Z which require motion). The model is implemented purely in NumPy — no deep learning frameworks — making it a great resource for understanding how neural networks work under the hood.
 
+## Demo 
+<img width="495" height="499" alt="Screenshot 2026-06-24 004447" src="https://github.com/user-attachments/assets/d226a23c-276f-419e-ab29-c08aaa9c63e1" />
+<img width="484" height="480" alt="Screenshot 2026-06-24 004528" src="https://github.com/user-attachments/assets/b093b83f-fa9d-402d-9b82-a620c30740d7" />
+<img width="482" height="497" alt="Screenshot 2026-06-24 004504" src="https://github.com/user-attachments/assets/7ca96956-4f28-4f66-885f-fab9f3c54011" />
+
+
 ## Dataset
 
 Uses the [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) dataset, a drop-in replacement for the classic MNIST benchmark.
